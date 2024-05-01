@@ -1,0 +1,2 @@
+# SampleDjango
+print a text
